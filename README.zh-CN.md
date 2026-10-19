@@ -4,7 +4,7 @@
 
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.5** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.6** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/template-02-expanded)**
 https://motiongit.com/@adunext/template-02-expanded
@@ -30,7 +30,7 @@ https://motiongit.com/@adunext/template-02-expanded
 
 ## 输入素材与内容
 
-- **必需:** 原生口播流程使用的本期人物视频与原声。
+- **可选:** 原生口播流程使用的本期人物视频与原声。
 - **必需:** 与本期口播匹配的文稿或 SRT 字幕。
 - **可选:** 对话中已有的主题、关键要点与输出偏好，由助手整理为方案。
 - **可选:** 所选场景需要时，提供相关且有使用权的透明示意插图。
