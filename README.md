@@ -4,7 +4,7 @@
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.15** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.16** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/template-02-expanded)**
 https://motiongit.com/@adunext/template-02-expanded
