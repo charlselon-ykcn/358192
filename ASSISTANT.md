@@ -3,7 +3,7 @@
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
 Template & full download: https://motiongit.com/@adunext/template-02-expanded
-Version: 2.7.21-alpha.4
+Version: 2.7.21-alpha.5
 Download available; current terms are listed with the package.
 
 ## Technical reference
